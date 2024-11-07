@@ -1,5 +1,5 @@
 {
-    "name": "My Example Source",
+    "name": "benmcgaltsrc",
     "subtitle": "All my apps in one place.",
     "description": "Welcome to my source! Here you'll find all of my apps.",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
@@ -12,7 +12,7 @@
     ],
     "apps": [
         {
-            "name": "My Example App",
+            "name": "islandapp",
             "bundleIdentifier": "com.example.myapp",
             "developerName": "Example Developer",
             "subtitle": "An awesome app.",
@@ -33,7 +33,7 @@
                     "version": "1.1",
                     "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
-                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
+                    "downloadURL": "https://github.com/matteozappia/DynamicCow/releases/download/1.1/DynamicCow.ipa",
                     "localizedDescription": "New features and bug fixes.",
                     "minOSVersion": "12.0"
                 },
